@@ -1,4 +1,4 @@
-[简体中文](README.md) | [English](README.zh-CN.md)
+[简体中文](README.md) | [English](README.zh-EN.md)
 
 当我接手第一个项目的时候，就有人建议我将代码存放于Github
 
