@@ -1,4 +1,13 @@
-## Hi there 👋
+[简体中文](README.md) | [English](README.zh-CN.md)
+
+当我接手第一个项目的时候，就有人建议我将代码存放于Github
+
+而直到过去成为回忆，我才终于想起来这样做
+
+一些历史文件会逐渐被同步过来，可能会有问题，无论来自文件本身还是对新平台的不熟悉
+
+***
+
 
 <!--
 **wolvillage/wolvillage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
