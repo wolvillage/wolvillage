@@ -1,4 +1,4 @@
-[简体中文](README.md) | [English](README.zh-EN.md)
+[简体中文](README.md) | [English](README.EN.md)
 
 When I took on my very first project, someone suggested that I host the code on GitHub.
 
